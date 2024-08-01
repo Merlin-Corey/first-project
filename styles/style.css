@@ -1,0 +1,107 @@
+
+
+body{
+    font-family: Inter, sans-serif;
+    font-weight: 400;
+    margin: 0;
+    background-color: #1e1e1e;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  ul,
+  ol,
+  blockquote {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .content-section {
+    width: 360px;
+    box-sizing: border-box;
+    min-height: 100px;
+    margin: auto;
+  }
+  
+  .content-section_theme_dark{
+    color: #fff;
+    background-color:#131313;
+  
+  }
+  
+  .content-section_theme_bright{
+    color: #131313;
+    background-color: #fee42a;
+  
+  }
+  
+  .header {
+    padding: 24px 20px; 
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
+  .header_logo {
+    display: block;
+    width: 78px;
+  }
+  
+  .header_logo-image {
+    width: 100%;
+  }
+  
+  .header_menu-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      list-style: none;
+  }
+  
+  .header_menu-link {
+      color: #fff;
+      font-size: 16px;
+      line-height: 1.2;
+  }
+  
+  .header_menu-item_active {
+    text-decoration: none;
+  }
+  
+  .accent-span {
+    display: block;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .text-right {
+      text-align: right;
+  }
+  
+  .cover{
+      background-image: ;
+    padding: 30 0 30 21;
+  }
+  
+  .intro {
+  
+  }
+  
+  .reasons {
+  
+  }
+  
+  .how-to {
+  
+  }
+  
+  .footer {
+  
+  }
